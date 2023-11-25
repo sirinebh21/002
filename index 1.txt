@@ -1,0 +1,13 @@
+﻿<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <title>Virtual reality showroom of Kélibia furniture in 3D</title>
+    </head>
+    <body>
+        <p>
+            Virtual reality:<br>
+            <img src="‪C:/Users/GK-S/Desktop/showroom/3D.png" alt="photo de profil" />
+        </p>
+    </body>
+</html>
